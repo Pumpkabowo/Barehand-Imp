@@ -1,4 +1,4 @@
-# Barehand Imp
+# Barehand Imp - REWRITE IN PROGRESS
 
 A plugin for Old School RuneScape RuneLite
 
