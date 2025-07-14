@@ -17,3 +17,4 @@ Plugin disables once entering area: Puro-Puro
 # Highlighted Imp
 ![image](https://github.com/user-attachments/assets/32013a4f-efb2-4150-87cf-140b3a478622)
 
+RREWORK SOON
